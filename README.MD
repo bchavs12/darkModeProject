@@ -1,7 +1,7 @@
 <h1 align="center"> Project Dark Mode </h1>
 
 <p align="center">
-A cada click no botão superio da tela a pagina muda de cor inserindo famoso dark-mode.
+A cada click no botão superior da tela a página muda de cor inserindo famoso dark-mode.
 </p>
 
 <p align="center">
