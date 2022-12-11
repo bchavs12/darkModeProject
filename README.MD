@@ -37,7 +37,7 @@ A aplicação consiste em manipular o doom através de class para alternar entre
 <p>Modo-Light</p>
 <img src="./assets/icons/mode-Light.PNG" width="450px">
 <p> Modo-Dark</p>
-<img src="./assets/icons/mode-dark.PNG" width="450px">
+<img src="./assets/icons/mode-Dark.PNG" width="450px">
 </div>
 
 ---
